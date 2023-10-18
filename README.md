@@ -8,7 +8,7 @@
   
       - **Verb**: The verb is also not directly stated but implied. The action happening here is the development or application of a "Framework for Digital Transformation." So, the verb could be understood as "applying" or "developing."
 
-      - **Object**: The object in this context is the "Framework for Digital Transformation." This is what the thesis aims to deliver or elucidate.
+      - **Object**: The object in this context is the "Framework for Digital Transformation." This is what the thesis aims to deliver or elucidate.
     
    - This thesis
       - Agent: What has been done for the following that your thesis is building on:
