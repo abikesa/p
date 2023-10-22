@@ -2,7 +2,7 @@ Certainly! Let's begin with a concise overview of the agency theory and then int
 
 ### **Agency Theory: An Overview**
 
-Agency theory, rooted in economics and organizational behavior, revolves around the relationship between two parties: principals (owners) and agents (those acting on behalf of the owners). It addresses the challenges that arise when the interests of the principal and the agent don't align. The primary concern of agency theory is the "agency problem" or "principal-agent problem", which arises when agents prioritize their interests over those of the principals, leading to potential conflicts. To mitigate such issues, contracts, incentives, and monitoring mechanisms are implemented to ensure that agents act in the best interests of the principals.
+Agency theory, rooted in economics and organizational behavior, revolves around the relationship between two parties: principals (owners) and agents (those acting on behalf of the owners). It addresses the challenges that arise when the interests of the principal and the agent don't align. The primary concern of agency theory is the "agency problem" or "principal-agent problem", which arises when agents prioritize their interests over those of the principals, leading to potential conflicts. `To mitigate such issues`, contracts, incentives, and monitoring mechanisms are implemented to ensure that agents act in the best interests of the principals.
 
 ### **Integration with Agent-Verb-Object and Psalm 23**
 
