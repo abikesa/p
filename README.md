@@ -39,4 +39,4 @@
        - Feedback loop & monitoring systems
 7. Hard-endpoint
    - End-user satisfaction
-   - $%$ using IT asset
+   - Cumulative % using IT asset (Methods accounting for time-to-event and censoring)
