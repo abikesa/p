@@ -5,7 +5,7 @@
                 \
 2. Cognitive -> 4. Frailty -> 5. Disability -> 6. Hard-endpoint 
                 /
-                  3. Motor
+                3. Motor
 ```
 
 1. Sensory
