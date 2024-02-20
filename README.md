@@ -1,42 +1,26 @@
-### Successful digital transformation following deployment of state-of-art IT infrastructure
+                        1. Construct
+                                    \
+                  2. Metaphysics -> 4. Song -> 5. Art -> 6. Life
+                                    /
+                                    3. Physics
 
-```
-      1. Sensory
-                \
-2. Cognitive -> 4. Frailty -> 5. Disability -> 6. Hard-endpoint 
-                /
-                3. Motor
-```
-
-1. Sensory
-   - Information asymmetry
-   - Under reporting
-2. Cognitive
-   - Task programmability
-   - Process clarity
-   - Execution method
-3. Motor
-   - Agent
-     - CEO & other executives in the C-suite
-   - Goal conflicts
-   - Other competing projects
-4. Frailty
-   - E
-     - Energy
-     - Activity
-   - M
-     - Magnitude of compute available
-     - Number of factors/variables to help personalize end-user experience
-   - $\text{C}^2$
-     - Speed at which end-user gets outcomes after initiating task
-5. Disability
-   - Nodes
-     - Roles
-       - C-suite
-   - Edges
-     - Relationships
-       - Participation at all levels of role hierarchy
-       - Feedback loop & monitoring systems
-7. Hard-endpoint
-   - End-user satisfaction
-   - Cumulative % using IT asset (Methods accounting for time-to-event and censoring)
+1. Construct
+   - [Experts to validate](https://sdtp.tech/accounts/login/) vs. Metaphysical grounding
+2. Metaphysics
+   - Idea, Epistemology, Ontology, Identity, Time, Chance
+   - Any existing legal or policy framework on which the construct is grounded? Or our we proposing one?
+   - How may we leverage this metaphysical foundation?
+3. Physics
+   - Silicon, hardware, computer networks
+   - Any specific software, application, or developer environment?
+   - Proprietary or open source?
+4. Song
+   - Challenge vs. Skill
+   - Tools that give agency
+   - Flow, growth, victory
+5. Art
+   - Heroes, villains, enablers, and the passive folks - with no agency
+6. Life
+   - Hideth, whineth, tameth
+   - Truth, knowledge, morality
+   - Seeketh, findeth, commandeth
