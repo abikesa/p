@@ -4,7 +4,7 @@
                                     /
                                     3. Physics
 
-1. Construct
+1. [Construct](https://www.youtube.com/watch?v=_F9iYxi652Y)
    - [Experts to validate](https://sdtp.tech/accounts/login/) vs. Metaphysical grounding
 2. Metaphysics
    - Idea, Epistemology, Ontology, Identity, Time, Chance
